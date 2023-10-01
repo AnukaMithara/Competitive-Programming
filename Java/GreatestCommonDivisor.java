@@ -19,6 +19,8 @@ class Main {
   }
 }
 
+// Both ways are correct, but Euclidean algorithm is more efficient
+
 
 /* 
 import java.util.*;

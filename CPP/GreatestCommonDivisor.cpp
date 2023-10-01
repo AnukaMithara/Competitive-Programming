@@ -17,7 +17,7 @@ int main() {
     return 0;
 }
 
-
+// Both ways are correct, but Euclidean algorithm is more efficient
 
 /*
 #include <iostream>
